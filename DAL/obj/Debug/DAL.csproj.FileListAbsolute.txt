@@ -7,3 +7,8 @@ C:\Users\cfmde\source\repos\code\OakCourse\DAL\obj\Debug\DAL.pdb
 C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\DTO.dll
 C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\DTO.pdb
 C:\Users\cfmde\source\repos\code\OakCourse\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\DAL.dll.config
+C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\EntityFramework.dll
+C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\EntityFramework.xml
+C:\Users\cfmde\source\repos\code\OakCourse\DAL\bin\Debug\EntityFramework.SqlServer.xml
